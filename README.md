@@ -32,18 +32,20 @@ git init
 text above the line
 ---  
 text under the line  
----  
 text before transfer  
+
 ---
 line
 
 another line  
+
 ---
 Italics are *asterisks* or _contraction_  
 Bold front - double **asterisks** or double __underscores__  
 You can combine the selection of **asterisks and __underscores__**
 
 ~~Strikethrough text.~~  
+
 ---
 ###### List
 1. Milk
