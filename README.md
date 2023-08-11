@@ -30,22 +30,22 @@ git init
 ##### H5
 ###### H6
 text above the line
----
-text under the line
----
+---  
+text under the line  
+---  
 text before transfer  
 ---
 line
 
-another line
+another line  
 ---
 Italics are *asterisks* or _contraction_  
 Bold front - double **asterisks** or double __underscores__  
 You can combine the selection of **asterisks and __underscores__**
 
-~~Strikethrough text.~~
+~~Strikethrough text.~~  
 ---
-####### List
+###### List
 1. Milk
 2. Bread
 ---
@@ -56,10 +56,10 @@ You can combine the selection of **asterisks and __underscores__**
 - Water
 - Ice cream
 
-####### Links
+###### Links
 [Яндекс](https://www.yandex.ru "Я Yandex!")
 
-####### Code
+###### Code
 After the first three gravis indicate the programming language in which the code is written. Markdown has syntax support for almost all popular languages and tools.
 ```bash
 ls -la
